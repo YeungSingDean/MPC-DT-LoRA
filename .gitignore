@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# 数据和结果
+data/
+datasets/
+outputs/
+results/
+logs/
+*.csv
+
+# 模型权重
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# 临时文件
+*.log
+.DS_Store
+Thumbs.db
